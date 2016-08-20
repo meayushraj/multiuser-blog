@@ -6,6 +6,7 @@ This is a full-stack web application that lets users create profiles and make bl
 
 #Technologies Used
 This Web App uses:
+
 * HTML
 * CSS
 * JavaScript
@@ -16,6 +17,7 @@ This Web App uses:
 #How To Setup
 
 To run this app on your local machine, please follow the below steps:
+
 1. make sure a python interpreter is installed
 2. download and install google app engine, as well as the SDKs
 3. in the terminal/command line, install jinja (pip install jinja2)
